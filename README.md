@@ -1,2 +1,2 @@
-
- TicTacToe game using React.js functional components
+# TicTacToe
+TicTacToe  game using React functional components
